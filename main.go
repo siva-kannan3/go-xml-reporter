@@ -1,6 +1,8 @@
 package main
 
-import "go-xml-reporter/example"
+import (
+	"github.com/siva-kannan3/go-xml-reporter/example"
+)
 
 func main() {
 	example.Example()

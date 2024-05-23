@@ -1,4 +1,4 @@
-module go-xml-reporter
+module github.com/siva-kannan3/go-xml-reporter
 
 go 1.22.2
 
